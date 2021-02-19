@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Reflection.Metadata.Ecma335;
+using Interface_IComparable.Entities;
 
 namespace Interface_IComparable
 {
@@ -16,15 +16,15 @@ namespace Interface_IComparable
             {
                 using (StreamReader sr = File.OpenText(path))
                 {
-                    List<string> list = new List<string>();
+                    List<Employee> list = new List<Employee>();
                     while (!sr.EndOfStream)
                     {
-                        list.Add(sr.ReadLine());
+                        list.Add(new Employee(sr.ReadLine()));
                     }
                     list.Sort();
-                    foreach(string str in list)
+                    foreach(Employee emp in list)
                     {
-                        Console.WriteLine(str);
+                        Console.WriteLine(emp);
                     }
                 }
             }
