@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.exe
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.deps.json
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.dll
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\bin\Debug\netcoreapp3.1\Interface-IComparable.pdb
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.dll
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.pdb
+C:\Users\convencaoinfo10\source\repos\Interface-IComparable\Interface-IComparable\obj\Debug\netcoreapp3.1\Interface-IComparable.genruntimeconfig.cache
